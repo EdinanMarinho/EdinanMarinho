@@ -1,6 +1,6 @@
 # Edinan Marinho
 
-**`Analista de Dados & Analytics Engineer`**
+### Analista de Dados & Analytics Engineer
 
 Sou Edinan Marinho, formado em Engenharia de Produção, com mais de 6 anos de experiência em Análise de Dados. Já trabalhei com as ferramentas Power BI, SQL Server, Looker Studio, Google Big Query, Python, Pentaho, Qlik View e recentemente tenho aprofundado meus conhecimentos em Microsoft Fabric e Databricks.
 
