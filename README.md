@@ -14,5 +14,6 @@ No meu "[blog](https://edinanmarinho.com.br/)", compartilho conhecimento, ideias
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&)](https://www.linkedin.com/in/edinanmarinho)
 [![Website](https://custom-icon-badges.demolab.com/badge/Website-7289da?logo=my-website&logoColor=fff&)](https://edinanmarinho.com.br/)
+[![Portfólio](https://custom-icon-badges.demolab.com/badge/Website-7289da?logo=briefcase&logoColor=fff&)]([https://edinanmarinho.com.br/](https://projetos.edinanmarinho.com.br/))
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/edinanmarinho/)
 
