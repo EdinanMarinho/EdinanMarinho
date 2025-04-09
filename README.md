@@ -10,7 +10,8 @@ Se quiser ver os projetos que desenvolvi e os que estou trabalhando, acesse meu 
 
 No meu "[blog](https://edinanmarinho.com.br/)", compartilho conhecimento, ideias e reflexões sobre a área de dados. Fica o convite para acompanhar!
 
---
+#
+
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&)](https://www.linkedin.com/in/edinanmarinho)
 [![Website](https://custom-icon-badges.demolab.com/badge/Website-7289da?logo=my-website&logoColor=fff&)](https://edinanmarinho.com.br/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/edinanmarinho/)
