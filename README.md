@@ -4,9 +4,9 @@
 
 Sou Edinan Marinho, formado em Engenharia de Produção e pós-graduado em Ciência de Dados e Big Data Analytics.
 
-Profissional com mais de 6 anos de experiência em Análise de Dados, Business Intelligence e Informações Gerenciais, com atuação em diversos segmentos. Já trabalhei com ferramentas como Power BI, SQL Server, Looker Studio, Google Big Query, Python, Pentaho e Qlik View. Recentemente, venho aprofundando meus conhecimentos em Microsoft Fabric e Databricks.
+Profissional com mais de 6 anos de experiência em Análise de Dados, Business Intelligence e Informações Gerenciais, com atuação em diversos segmentos. Já trabalhei com ferramentas como Power BI, SQL Server, Looker Studio, Google Big Query, Python, Pentaho e Qlik View. 
 
-Sou certificado como "[Microsoft Fabric Analytics Engineer Associate](https://learn.microsoft.com/api/credentials/share/pt-br/EdinanMarinho-7919/8E8ADF604BE2D566?sharingId=FA0635F6E269F693)" e estou cursando a formação em Análise de Dados pela Xperiun | Data Analytics!
+Conhecimento básico em Databricks com Spark, sou certificado como "[Microsoft Fabric Analytics Engineer Associate](https://learn.microsoft.com/api/credentials/share/pt-br/EdinanMarinho-7919/8E8ADF604BE2D566?sharingId=FA0635F6E269F693)" e estou cursando a formação em Análise de Dados pela Xperiun | Data Analytics!
 
 Se quiser ver os projetos que desenvolvi e os que estou trabalhando, acesse meu "[portfólio de projetos](https://projetos.edinanmarinho.com.br/)".
 
