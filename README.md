@@ -4,7 +4,7 @@
 
 Trabalho com dados há mais de 7 anos, atuando com Análise de Dados e BI em empresas que vão desde multinacionais até startups. Me formei em Engenharia de Produção e também tenho formação em Análise de Dados pela Xperiun Educação.
 
-Conhecimento básico em Databricks com Spark, sou certificado como "[Microsoft Fabric Analytics Engineer Associate](https://learn.microsoft.com/api/credentials/share/pt-br/EdinanMarinho-7919/8E8ADF604BE2D566?sharingId=FA0635F6E269F693)" e estou cursando a formação em Análise de Dados pela Xperiun | Data Analytics!
+Sou certificado pela Microsoft nas certificações "[PL-300: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/EdinanMarinho-7919/136C23C5FE155966?sharingId=FA0635F6E269F693)" e "[Microsoft Fabric Analytics Engineer Associate](https://learn.microsoft.com/api/credentials/share/pt-br/EdinanMarinho-7919/8E8ADF604BE2D566?sharingId=FA0635F6E269F693)".
 
 Se quiser ver os projetos que desenvolvi e os que estou trabalhando, acesse meu "[portfólio de projetos](https://projetos.edinanmarinho.com.br/)".
 
